@@ -1,0 +1,17 @@
+h1 {
+    color:rgb(134, 111, 8);
+}
+img {
+    width: 400px;
+}
+#thirdDiv {
+    height: 600px;
+    width: 500px;
+    background-color: bisque;
+    padding: 50px;
+    border:10px solid rgba(236, 117, 80, 0.815);
+}
+#spandId {
+    font-size: 18px;
+    margin: 50px;
+}
